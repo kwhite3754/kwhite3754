@@ -5,6 +5,10 @@
   <img src="https://img.shields.io/github/followers/kwhite3754?style=for-the-badge&logo=github&label=FOLLOWERS&color=24243e" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=fe65c3&center=true&vCenter=true&width=600&lines=Building+Predictive+Models;Designing+Data+Pipelines;Optimizing+Algorithms;Visualizing+Complex+Insights" alt="Typing SVG" />
+</p>
+  
 ---
 
 ### 🧑‍💻 About Me

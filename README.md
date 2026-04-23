@@ -1,3 +1,5 @@
+![KWGitHub Banner](Banner.png)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kwhite3754&label=PROFILE%20VIEWS&color=0077b6&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/kwhite3754?style=for-the-badge&logo=github&label=FOLLOWERS&color=24243e" />
@@ -25,7 +27,7 @@ I am a **Mathematics major** and aspiring **Data Scientist** focused on the inte
 
 ### 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kwhite3754&bg_color=ffffff&color=a53860&line=a53860&point=da627d&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kwhite3754&bg_color=ffffff&color=fe65c3&line=fe65c3&point=f0b1d2&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
 
 

@@ -28,6 +28,8 @@ I am a **Mathematics major** and aspiring **Data Scientist** focused on the inte
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kwhite3754&bg_color=ffffff&color=a53860&line=a53860&point=da627d&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
 
+
+
 ---
 
 ### 📬 Connect With Me
@@ -42,3 +44,4 @@ I am a **Mathematics major** and aspiring **Data Scientist** focused on the inte
 
 > [!IMPORTANT]
 > I am actively seeking **Data Scientist** and **Data Analyst** roles. Let’s turn complex data into actionable insights!
+

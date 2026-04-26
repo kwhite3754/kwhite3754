@@ -29,7 +29,7 @@ I am a **Mathematics major** and aspiring **Data Scientist** focused on the inte
 
 ---
 
-### GitHub Activity
+### <img src="https://iili.io/B6iBP1e.md.png" alt="Icon" width="20"> GitHub Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kwhite3754&bg_color=0d1117&color=fe65c3&line=fe65c3&point=f0b1d2&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>

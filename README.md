@@ -11,12 +11,13 @@
   
 ---
 
-### About Me
+### <img src="https://iili.io/B6sIutf.md.png" alt="Icon" width="20"> About Me
 I am a **Mathematics major** and aspiring **Data Scientist** focused on the intersection of quantitative modeling and computational analysis. I enjoy leveraging mathematical logic and algorithmic thinking to optimize systems and transform complex datasets into clear, actionable solutions.
+
 
 ---
 
-### Tech Stack
+### <img src="https://iili.io/B6sITwG.md.png" alt="Icon" width="20"> Tech Stack
 
 | <samp> Tools & Technologies </samp>  | <samp> Badge </samp> |
 | ------------- |:-------------:|
@@ -39,7 +40,7 @@ I am a **Mathematics major** and aspiring **Data Scientist** focused on the inte
 
 ---
 
-### Connect With Me
+### <img src="https://iili.io/B6sIIus.md.png" alt="Icon" width="20"> Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/kadie-white/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077b6?style=for-the-badge&logo=linkedin&logoColor=white"/>

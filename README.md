@@ -11,12 +11,12 @@
   
 ---
 
-### 🧑‍💻 About Me
+### About Me
 I am a **Mathematics major** and aspiring **Data Scientist** focused on the intersection of quantitative modeling and computational analysis. I enjoy leveraging mathematical logic and algorithmic thinking to optimize systems and transform complex datasets into clear, actionable solutions.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 | <samp> Tools & Technologies </samp>  | <samp> Badge </samp> |
 | ------------- |:-------------:|
@@ -29,7 +29,7 @@ I am a **Mathematics major** and aspiring **Data Scientist** focused on the inte
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kwhite3754&bg_color=0d1117&color=fe65c3&line=fe65c3&point=f0b1d2&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
@@ -39,7 +39,7 @@ I am a **Mathematics major** and aspiring **Data Scientist** focused on the inte
 
 ---
 
-### 📬 Connect With Me
+### Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/kadie-white/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077b6?style=for-the-badge&logo=linkedin&logoColor=white"/>

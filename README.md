@@ -35,9 +35,9 @@ I am a **Mathematics major** and aspiring **Data Scientist** focused on the inte
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kwhite3754&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="kwhite3754's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kwhite3754&theme=radical&hide_border=true" alt="kwhite3754's Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwhite3754&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="kwhite3754's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kwhite3754&theme=radical&show_icons=true&hide_border=true&count_private=true" width=35% alt="kwhite3754's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kwhite3754&theme=radical&hide_border=true" width=35% alt="kwhite3754's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwhite3754&theme=radical&show_icons=true&hide_border=true&layout=compact" width=35% alt="kwhite3754's Top Languages" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
